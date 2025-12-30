@@ -3,13 +3,11 @@
 
 This project implements a Milk Production Forecasting system using a Long Short-Term Memory (LSTM) neural network.
 The model predicts future milk production values based on historical monthly production data.
-
 The goal is to demonstrate how LSTM networks can effectively learn temporal and seasonal patterns in time-series data.
 
 📌 Features
 
 🧠 Uses LSTM for time-series forecasting
-
 🔁 Sequence learning with sliding window approach
 📈 Monthly milk production prediction
 📊 Training loss visualization
